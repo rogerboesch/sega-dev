@@ -7,13 +7,13 @@ More to come ...
 
 ## VSCode template
 
-In [SEGA_VSCod](SEGA_VSCode/) you find the VSCode template I use. The base template is from [this repo](https://github.com/pleft/SEGA_VSCode_Template), 
+In [SEGA_VSCode](SEGA_VSCode/) you find the VSCode template I use. The base template is from [this repo](https://github.com/pleft/SEGA_VSCode_Template), 
 but I **customized** it for my needs.
 
-Press <CTRL><SHIFT>-B to compile or <CTRL>-T to execute the available tasks
+Press **CTRL**-**SHIFT**-B to compile or **CTRL**-T to execute the available tasks
 
-- task build: compile the project
-- task clean: clean the project
-- task run: run the code in emulator (Needs installation of the [gems kmod emulator](https://gendev.spritesmind.net/page-gensK.html))
+- task *build*: compile the project
+- task *clean*: clean the project
+- task *run*: run the code in emulator (Needs installation of the [gems kmod emulator](https://gendev.spritesmind.net/page-gensK.html))
  
-Feel free to use, it's a nice starting point for every project
+Feel free to use, it's a nice starting point for every project.
